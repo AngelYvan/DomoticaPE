@@ -1,0 +1,4 @@
+#Thu Nov 07 16:46:06 PET 2019
+base.0=/home/angel/Proyecto Final Plataformas Emergentes/DomoticaPE/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
